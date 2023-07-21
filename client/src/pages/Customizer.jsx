@@ -1,4 +1,4 @@
 const Customizer = () => {
-  return <h1>Custom</h1>;
+  return <div>Custom</div>;
 };
 export default Customizer;

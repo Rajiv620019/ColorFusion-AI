@@ -1,4 +1,4 @@
 const Canvas = () => {
-  return <h1>Canvas</h1>;
+  return <div>Canvas</div>;
 };
 export default Canvas;
