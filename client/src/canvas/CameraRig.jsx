@@ -1,6 +1,4 @@
-const CameraRig = () => {
-  return (
-    <div>CameraRig</div>
-  )
-}
-export default CameraRig
+const CameraRig = ({ children }) => {
+  return <group>{children}</group>;
+};
+export default CameraRig;
